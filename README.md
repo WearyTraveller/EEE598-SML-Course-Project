@@ -12,5 +12,5 @@ Dependencies:
 
 Numpy and Pandas are used for data handling.
 SciKit Learn used with the Keras Wrapper API to do Grid Search, Principal Component Analysis and K-fold Stratified Cross Validation.
-
+UCI Machine Learning Repository's Heart Disease dataset available at : https://archive.ics.uci.edu/ml/datasets/Heart+Disease. The specific dataset we used is attached above.
 
